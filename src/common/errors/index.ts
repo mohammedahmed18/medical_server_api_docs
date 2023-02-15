@@ -1,1 +1,0 @@
-export * from './custome.error'
